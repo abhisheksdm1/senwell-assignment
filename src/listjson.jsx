@@ -1,4 +1,5 @@
 export const myList = [
+  "aman",
   "abhishek",
   "abhishek",
   "abhishek",
