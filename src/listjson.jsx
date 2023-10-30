@@ -1,0 +1,17 @@
+export const myList = [
+  "abhishek",
+  "abhishek",
+  "abhishek",
+  "abhishek",
+  "rahul",
+  "rahul",
+  "rahul",
+  "rahul",
+  "rahul",
+  "rahul",
+  "rahul",
+  "rahul",
+  "rahul",
+  "rahul",
+  "rahul",
+];
